@@ -1,10 +1,10 @@
-#University Progression Outcome Program
+# University Progression Outcome Program
 This program is designed to keep track of student progress at a university. It allows staff and students to enter data for multiple students and provides various options for viewing and manipulating the data.
 
-##Getting Started
+## Getting Started
 To run this program, you will need to have Python 3 installed on your computer. Then, simply download the .py file and run it in a Python interpreter.
 
-##Features
+## Features
 The program has the following features:
 
 A menu that allows the user to choose between the Staff and Student options.
@@ -19,5 +19,5 @@ Dictionary: displays a dictionary of all students and their progression outcomes
 Exit: exits the program.
 The ability to write the output of the List and Dictionary options to a text file.
 
-##Further Information
+## Further Information
 For more information on how this program works, you can refer to the code itself. It is well-commented and should provide a clear explanation of the various functions and their purposes.
